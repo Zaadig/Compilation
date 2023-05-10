@@ -1,7 +1,7 @@
 # COMPILATION PROJECT
 **repository if204-17431**
 
-*Project done by : Jad Elkarchi and Moahmed Seddiq Elalaoui*
+*Project done by : Elalaoui Mohamed Seddiq and Jad Elkarchi*
 
 This project is a bluit compiler using MYML and compiled to P-code that can be executed or ran by gcc.
 MyML is a small functional programming language similar to ML/Haskell, using an Adhoc syntax. 
